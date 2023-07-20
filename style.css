@@ -6,7 +6,7 @@
 }
 .bannerBgImg{
 height: 100vh;
-background-image: url("/image\ 2.jpg");
+background-image: url("../maniportfolio/bannerimg.jpg");
 background-size: cover;
 position: relative;
 }
